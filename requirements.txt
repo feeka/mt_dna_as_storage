@@ -1,1 +1,4 @@
 termcolor
+numpy
+cycler
+kiwisolver
