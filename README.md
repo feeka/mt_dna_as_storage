@@ -12,7 +12,7 @@ The empirical analysis was conducted on toy-parametered example - where paramete
 
 Just download zip or clone to local directory and try to run workflow.py or tests.py depending on the version, using python3. If it asks for dependencies simply install them or if you do not want to overcrowd your PC with the third party stuff, simply use [@venv](https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-windows-10/).
 
-## Docu
+## Documentation
 
 In course of the thesis, extensive simulation of DNA as storage system was developed. It is worth mentioning that mentioned below codes were developed by author of thesis. In chapter four, we briefly introduced the way codes are organized. The appendix covers the functionality of methods and attributes in the listings format and provides documentation of codes attached to the thesis.
 
@@ -24,9 +24,9 @@ There are two classes in error control codes package: Encoder and Detector (sinc
 
 There are two classes in bioinformatics package: Synthesizer and Sequencer. Each of those classes has corresponding methods that serve a specific purpose in bioinformatics. There are more files but they are scribbles.
 
-### helpers package
+### interfaces
 
-There are four files in helpers package: Channel, mapper.py, math_helpers.py and F_Four. Channel and F_Four are classes; math helper.py and mapper are simply a collection of methods. Channel contains methods that simulate errors that occur during sequencing and distorts reads correspondingly. F_Four is a class aimed to simulate F4 by overriding standard operators (plus, minus, multiply, divide, and equals). The file mapper.py is a python script that contains two methods to map A,C,T,G < − > 0,1,2,3. The file math_helpers contains methods necessary for performing sophisticated mathematical operations.
+There are four files in interfaces package: Channel, mapper.py, math_helpers.py and F_Four. Channel and F_Four are classes; math helper.py and mapper are simply a collection of methods. Channel contains methods that simulate errors that occur during sequencing and distorts reads correspondingly. F_Four is a class aimed to simulate F4 by overriding standard operators (plus, minus, multiply, divide, and equals). The file mapper.py is a python script that contains two methods to map A,C,T,G < − > 0,1,2,3. The file math_helpers contains methods necessary for performing sophisticated mathematical operations.
 
 ### workflowmanager.py
 
