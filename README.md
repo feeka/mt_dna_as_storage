@@ -1,6 +1,6 @@
 # Master Thesis: Coding for DNA as a Storage
 
-The repository is dedicate to trhe master thesis. This version of a repository is not accurate and a mere draft. Some scribbles of software are assembled and simulated. It is intented for an audience, who likes to read messy, chaotic and unoptimised code. 
+The repository is dedicate to trhe master thesis. This version of a repository is not accurate and a mere draft. Some scribbles of software are assembled and simulated. It is intented for an audience, who likes to read messy, chaotic and unoptimised code. Here is full thesis for a [download] (https://github.com/feeka/theses/blob/master/Master%20Thesis:%20DNA%20as%20a%20Storage.pdf).
 
 ## Description
 
