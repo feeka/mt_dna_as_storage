@@ -17,7 +17,7 @@ Download the zip or clone to a local directory and try to run workflow.py or tes
 During the thesis, an extensive simulation of DNA as a storage system was developed. It is worth mentioning that the author of the thesis developed the codes mentioned below. In chapter four, we briefly introduced the way codes are organized. The appendix covers the functionality of methods and attributes in the listings format and provides documentation of the code attached to the thesis.
 
 > [!NOTE]  
-> The thesis was written in 2020, when the technology and the field were still emerging. We created and simulated everything for the toy example. An upgraded repo for a similar project that I just started developing is here: [https://github.com/feeka/dna-storage/](https://github.com/feeka/dna-storage/).
+> The thesis was written in 2020, when the technology and the field were still emerging. We created and simulated everything for the toy example. An upgraded repo for a similar project that I just started (December 2025) developing is here: [https://github.com/feeka/dna-storage/](https://github.com/feeka/dna-storage/) 
 
 ### ecc package
 
