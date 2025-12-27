@@ -29,7 +29,7 @@ There are two classes in the bioinformatics package: Synthesizer and Sequencer. 
 
 ### interfaces
 
-Four files are in the interfaces package: Channel, mapper.py, math_helpers.py, and F_Four. Channel and F_Four are classes; math helper.py and mapper are simply a collection of methods. The channel contains methods that simulate errors during sequencing and distort reads correspondingly. F_Four is a class that simulates F4 by overriding standard operators (plus, minus, multiply, divide, and equals). The implementation is straightforward: a dictionary/map with the operation and the resulting answer as a string (for simplicity). The file mapper.py is a Python script that contains two methods to map A, C, T, G < − > 0,1,2,3. The file math_helpers contains methods necessary for performing sophisticated mathematical operations.
+Four files are in the interfaces package: Channel, mapper.py, math_helpers.py, and F_Four. Channel and F_Four are classes; math helper.py and mapper are simply a collection of methods. The channel contains methods that simulate errors during sequencing and distort reads correspondingly. F_Four is a class that simulates F4 by overriding standard operators (plus, minus, multiply, divide, and equals). The implementation is straightforward: a dictionary/map with the operation and the resulting answer as a string (for simplicity). The file mapper.py is a Python script that contains two methods to map ```A, C, T, G < − > 0,1,2,3```. The file math_helpers contains methods necessary for performing sophisticated mathematical operations.
 
 ### workflowmanager.py
 
